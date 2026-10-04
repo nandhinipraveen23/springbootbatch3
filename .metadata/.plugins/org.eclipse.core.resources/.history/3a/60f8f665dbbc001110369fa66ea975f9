@@ -1,0 +1,27 @@
+package com.example.demo.repository;
+
+import org.springframework.stereotype.Repository;
+
+@Repository
+public interface EmployeeRepository {
+/*
+ * EmpDao
+ * void inserEmp(Emp emp);
+ * List<Emp> getAllEmp();
+ * 
+ * 
+ * EmpDaoImpl
+ * 
+ * void insertEmp(Emp emp)
+ * {
+ * 
+ *  session.save(emp)
+ * }
+ * 
+ * List<Emp> getAllEmp()
+ * {
+ * 
+ * session.findAll();
+ * }
+ */
+}

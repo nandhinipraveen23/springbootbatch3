@@ -1,0 +1,9 @@
+package com.example.demo.service;
+
+import com.example.demo.dto.EmployeeDto;
+
+public interface EmployeeService {
+
+	
+	public EmployeeDto insertEmployee(EmployeeDto employeeDto);
+}
