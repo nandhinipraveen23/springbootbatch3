@@ -7,54 +7,35 @@ import org.springframework.stereotype.Service;
 
 import jakarta.mail.internet.MimeMessage;
 
+ 
+    
 @Service
 public class EmailService {
 
     @Autowired
     private JavaMailSender mailSender;
 
-    public void sendEmail(
-            String from,
-            String to,
-            String subject,
-            String body) {
+     
+    public void sendEmail( String from,String to,String subject, String body) {
 
         try {
 
-            // Create MimeMessage
             MimeMessage message =
                     mailSender.createMimeMessage();
 
-            // Create helper
             MimeMessageHelper helper =
-                    new MimeMessageHelper(message, true);
+                    new MimeMessageHelper(message);
 
-            // Set From
             helper.setFrom(from);
-
-            // Set To
             helper.setTo(to);
-
-            // Set Subject
             helper.setSubject(subject);
+            helper.setText(body);
 
-            // true = HTML email
-            helper.setText(body, true);
-
-            // Send email
             mailSender.send(message);
 
-            System.out.println(
-                    "Email sent successfully to: " + to
-            );
+            System.out.println("Mail Sent");
 
         } catch (Exception e) {
-
-            System.out.println(
-                    "Error while sending email: "
-                    + e.getMessage()
-            );
-
             e.printStackTrace();
         }
     }
