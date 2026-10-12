@@ -1,0 +1,2 @@
+package com.example.department.dto;
+import jakarta.validation.constraints.NotBlank; public class DepartmentRequestDto { @NotBlank private String departmentName; private String description; public String getDepartmentName(){return departmentName;} public void setDepartmentName(String v){departmentName=v;} public String getDescription(){return description;} public void setDescription(String v){description=v;} }

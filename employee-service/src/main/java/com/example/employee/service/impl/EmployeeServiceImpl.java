@@ -1,0 +1,15 @@
+package com.example.employee.service.impl;
+import java.util.*; import org.springframework.stereotype.Service; import org.springframework.security.crypto.password.PasswordEncoder; import org.springframework.web.client.RestTemplate; import org.springframework.web.client.RestClientException;
+import com.example.employee.dto.*; import com.example.employee.entity.Employee; import com.example.employee.exception.ResourceNotFoundException; import com.example.employee.repository.EmployeeRepository; import com.example.employee.service.EmployeeService;
+@Service public class EmployeeServiceImpl implements EmployeeService {
+ private final EmployeeRepository repo; private final PasswordEncoder encoder; private final RestTemplate restTemplate;
+ public EmployeeServiceImpl(EmployeeRepository repo,PasswordEncoder encoder,RestTemplate restTemplate){this.repo=repo;this.encoder=encoder;this.restTemplate=restTemplate;}
+ public EmployeeResponseDto create(EmployeeRequestDto r){if(repo.existsByEmail(r.getEmail()))throw new IllegalArgumentException("An employee with this email already exists");Employee e=new Employee();e.setName(r.getName());e.setEmail(r.getEmail());e.setPassword(encoder.encode(r.getPassword()));e.setDepartmentId(r.getDepartmentId());Employee saved=repo.save(e);notifyService("Employee created: "+saved.getName(),saved.getEmail());return toDto(saved);}
+ public List<EmployeeResponseDto> findAll(){return repo.findAll().stream().map(this::toDto).toList();}
+ public EmployeeResponseDto findById(Integer id){return toDto(get(id));}
+ public EmployeeResponseDto update(Integer id,EmployeeRequestDto r){Employee e=get(id);e.setName(r.getName());if(!e.getEmail().equals(r.getEmail())&&repo.existsByEmail(r.getEmail()))throw new IllegalArgumentException("An employee with this email already exists");e.setEmail(r.getEmail());if(r.getPassword()!=null&&!r.getPassword().isBlank())e.setPassword(encoder.encode(r.getPassword()));e.setDepartmentId(r.getDepartmentId());return toDto(repo.save(e));}
+ public void delete(Integer id){Employee e=get(id);repo.delete(e);notifyService("Employee deleted: "+e.getName(),e.getEmail());}
+ private Employee get(Integer id){return repo.findById(id).orElseThrow(()->new ResourceNotFoundException("Employee not found: "+id));}
+ private EmployeeResponseDto toDto(Employee e){String deptName=null;if(e.getDepartmentId()!=null){try{DepartmentDto d=restTemplate.getForObject("http://DEPARTMENT-SERVICE/departments/"+e.getDepartmentId(),DepartmentDto.class);if(d!=null)deptName=d.getDepartmentName();}catch(RestClientException ex){deptName="Department service unavailable";}}return new EmployeeResponseDto(e.getEmpno(),e.getName(),e.getEmail(),e.getDepartmentId(),deptName);}
+ private void notifyService(String message,String recipient){try{Map<String,String> body=new HashMap<>();body.put("recipient",recipient);body.put("message",message);body.put("type","EMPLOYEE_EVENT");restTemplate.postForEntity("http://NOTIFICATION-SERVICE/notifications",body,Map.class);}catch(RestClientException ex){System.err.println("Notification service call failed: "+ex.getMessage());}}
+}
