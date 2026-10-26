@@ -67,7 +67,7 @@ public class EmployeeController {
 		
 	}
 	
-	@GetMapping("/allemp")
+	@GetMapping("/allemployees")
 	public ResponseEntity<List<EmployeeDto>> fetchAllEmp()
 	{
 		List <EmployeeDto> allEmpDto=	employeeService.getAllEmployee();

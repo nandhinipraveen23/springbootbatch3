@@ -87,7 +87,7 @@
 	</dependencies>
 
 	<build>
-	<finalName>emp-app2</finalName>
+	<finalName>ashwini-emp</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>

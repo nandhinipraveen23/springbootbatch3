@@ -4,26 +4,43 @@ pipeline {
 
     stages {
         stage('Build') {
-            steps {
-                dir('empcrudjwtwithsecuritytestwithdocker') {
-                    bat 'mvnw.cmd clean package -DskipTests'
-                }
-            }
+			steps{
+				dir('empcrudjwtwithsecuritytestwithdocker')
+			 {
+             
+                bat 'mvnw.cmd clean package -DskipTests'
+             
         }
+        }
+        }
+ 
 
         stage('Check Docker') {
             steps {
-                bat '"C:\\Users\\User\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin\\docker.exe" --version'
-                bat '"C:\\Users\\User\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin\\docker.exe" info'
-            }
-        }
+				bat '"C:\\Users\\User\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin
+				\\docker.exe"--version'
+				
+				
+				bat 
+				 
+				'"C:\\Users\\User\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin
+				\\docker.exe"info'
+			}
+			}
 
-        stage('Docker Build') {
-            steps {
-                dir('empcrudjwtwithsecuritytestwithdocker') {
-                    bat '"C:\\Users\\User\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin\\docker.exe" build -t emp-app2 .'
-                }
-            }
-        }
-    }
+stage('Docker Build')
+
+{
+	steps{
+		dir('empcrudjwtwithsecuritytestwithdocker')
+		
+		{
+			bat '"C:\\Users\\User\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin
+				\\docker.exe" build -t ashwini-emp.'
+		}
+	}
+}
+
+          
+   }   
 }
