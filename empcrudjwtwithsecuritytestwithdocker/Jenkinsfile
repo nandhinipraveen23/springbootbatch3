@@ -5,13 +5,17 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                bat 'mvnw.cmd clean package -DskipTests'
+                dir('empcrudjwtwithsecuritytestwithdocker') {
+                    bat 'mvnw.cmd clean package -DskipTests'
+                }
             }
         }
 
         stage('Docker Build') {
             steps {
-                bat 'docker build -t emp-app2 .'
+                dir('empcrudjwtwithsecuritytestwithdocker') {
+                    bat 'docker build -t emp-app2 .'
+                }
             }
         }
     }
