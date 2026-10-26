@@ -225,3 +225,669 @@
 2026-10-12 15:57:25.116: [INFO] BookmarkModelLoaded, ids_reassigned: 0
 2026-10-12 15:57:25.116: [INFO] BookmarksLoadDropped droppedNodes=0
 2026-10-12 15:57:25.116: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-13 14:01:11.068: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-13 14:01:11.068: [INFO] Profiles total count: 1
+2026-10-13 14:01:11.068: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-12T14:45:52.888Z
+2026-10-13 14:01:11.068: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-13 14:01:11.068: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-12T14:45:52.888Z
+2026-10-13 14:01:11.068: [INFO] OnDoneLoading sync enabled: 0
+2026-10-13 14:01:11.068: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-13 14:01:11.068: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-13 14:01:11.068: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-13 14:13:23.505: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-13 14:20:36.438: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-13 14:20:36.438: [INFO] Profiles total count: 1
+2026-10-13 14:20:36.439: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-12T14:45:52.888Z
+2026-10-13 14:20:36.439: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-13 14:20:36.439: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-12T14:45:52.888Z
+2026-10-13 14:20:36.439: [INFO] OnDoneLoading sync enabled: 0
+2026-10-13 14:20:36.439: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-13 14:20:36.439: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-13 14:20:36.439: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-13 14:20:46.890: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-13 14:25:24.710: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-13 14:25:24.710: [INFO] Profiles total count: 1
+2026-10-13 14:25:24.710: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-12T14:45:52.888Z
+2026-10-13 14:25:24.710: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-13 14:25:24.710: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-12T14:45:52.888Z
+2026-10-13 14:25:24.710: [INFO] OnDoneLoading sync enabled: 0
+2026-10-13 14:25:24.710: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-13 14:25:24.710: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-13 14:25:24.710: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-13 15:00:44.258: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-13 15:01:45.517: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-13 15:01:45.517: [INFO] Profiles total count: 1
+2026-10-13 15:01:45.517: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-12T14:45:52.888Z
+2026-10-13 15:01:45.517: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-13 15:01:45.517: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-12T14:45:52.888Z
+2026-10-13 15:01:45.517: [INFO] OnDoneLoading sync enabled: 0
+2026-10-13 15:01:45.517: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-13 15:01:45.517: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-13 15:01:45.517: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-13 15:01:51.336: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-13 15:02:54.638: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-13 15:02:54.638: [INFO] Profiles total count: 1
+2026-10-13 15:02:54.638: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-12T14:45:52.888Z
+2026-10-13 15:02:54.638: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-13 15:02:54.638: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-12T14:45:52.888Z
+2026-10-13 15:02:54.638: [INFO] OnDoneLoading sync enabled: 0
+2026-10-13 15:02:54.638: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-13 15:02:54.638: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-13 15:02:54.638: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-14 14:05:32.194: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-14 14:05:32.194: [INFO] Profiles total count: 1
+2026-10-14 14:05:32.194: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-13T15:03:09.538Z
+2026-10-14 14:05:32.194: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-14 14:05:32.194: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-13T15:03:09.538Z
+2026-10-14 14:05:32.194: [INFO] OnDoneLoading sync enabled: 0
+2026-10-14 14:05:32.194: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-14 14:05:32.194: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-14 14:05:32.194: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-14 14:42:23.016: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-14 14:44:44.647: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-14 14:44:44.647: [INFO] Profiles total count: 1
+2026-10-14 14:44:44.647: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-14T14:37:20.175Z
+2026-10-14 14:44:44.647: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-14 14:44:44.647: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-14T14:37:20.175Z
+2026-10-14 14:44:44.647: [INFO] OnDoneLoading sync enabled: 0
+2026-10-14 14:44:44.647: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-14 14:44:44.647: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-14 14:44:44.647: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-14 14:45:01.545: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-14 14:45:10.965: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-14 14:45:10.965: [INFO] Profiles total count: 1
+2026-10-14 14:45:10.965: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-14T14:37:20.175Z
+2026-10-14 14:45:10.965: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-14 14:45:10.965: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-14T14:37:20.175Z
+2026-10-14 14:45:10.965: [INFO] OnDoneLoading sync enabled: 0
+2026-10-14 14:45:10.965: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-14 14:45:10.965: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-14 14:45:10.965: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-14 14:45:20.724: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-14 14:53:18.036: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-14 14:53:18.036: [INFO] Profiles total count: 1
+2026-10-14 14:53:18.037: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-14T14:37:20.175Z
+2026-10-14 14:53:18.037: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-14 14:53:18.037: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-14T14:37:20.175Z
+2026-10-14 14:53:18.037: [INFO] OnDoneLoading sync enabled: 0
+2026-10-14 14:53:18.037: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-14 14:53:18.037: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-14 14:53:18.037: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-14 14:53:25.535: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-14 14:53:25.703: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-14 14:53:25.703: [INFO] Profiles total count: 1
+2026-10-14 14:53:25.703: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-14T14:37:20.175Z
+2026-10-14 14:53:25.703: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-14 14:53:25.703: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-14T14:37:20.175Z
+2026-10-14 14:53:25.703: [INFO] OnDoneLoading sync enabled: 0
+2026-10-14 14:53:25.703: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-14 14:53:25.703: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-14 14:53:25.703: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-14 15:29:32.661: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-20 07:08:18.812: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-20 07:08:18.812: [INFO] Profiles total count: 1
+2026-10-20 07:08:18.813: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-14T14:37:20.175Z
+2026-10-20 07:08:18.813: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-20 07:08:18.813: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-14T14:37:20.175Z
+2026-10-20 07:08:18.813: [INFO] OnDoneLoading sync enabled: 0
+2026-10-20 07:08:18.813: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-20 07:08:18.813: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-20 07:08:18.813: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-20 07:09:33.438: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-20 07:10:11.051: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-20 07:10:11.051: [INFO] Profiles total count: 1
+2026-10-20 07:10:11.051: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-14T14:37:20.175Z
+2026-10-20 07:10:11.051: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-20 07:10:11.051: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-14T14:37:20.175Z
+2026-10-20 07:10:11.051: [INFO] OnDoneLoading sync enabled: 0
+2026-10-20 07:10:11.051: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-20 07:10:11.051: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-20 07:10:11.051: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-21 05:15:53.689: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-21 05:20:29.807: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-21 05:20:29.807: [INFO] Profiles total count: 1
+2026-10-21 05:20:29.808: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-14T14:37:20.175Z
+2026-10-21 05:20:29.808: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-21 05:20:29.808: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-14T14:37:20.175Z
+2026-10-21 05:20:29.808: [INFO] OnDoneLoading sync enabled: 0
+2026-10-21 05:20:29.808: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-21 05:20:29.808: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-21 05:20:29.808: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-21 05:46:23.806: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-21 06:23:51.239: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-21 06:23:51.239: [INFO] Profiles total count: 1
+2026-10-21 06:23:51.239: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-14T14:37:20.175Z
+2026-10-21 06:23:51.239: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-21 06:23:51.239: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-14T14:37:20.175Z
+2026-10-21 06:23:51.239: [INFO] OnDoneLoading sync enabled: 0
+2026-10-21 06:23:51.239: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-21 06:23:51.239: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-21 06:23:51.239: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-21 06:32:18.413: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-21 06:33:57.920: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-21 06:33:57.920: [INFO] Profiles total count: 1
+2026-10-21 06:33:57.920: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-14T14:37:20.175Z
+2026-10-21 06:33:57.920: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-21 06:33:57.920: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-14T14:37:20.175Z
+2026-10-21 06:33:57.920: [INFO] OnDoneLoading sync enabled: 0
+2026-10-21 06:33:57.920: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-21 06:33:57.920: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-21 06:33:57.920: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-21 07:01:11.535: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-21 07:01:34.152: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-21 07:01:34.152: [INFO] Profiles total count: 1
+2026-10-21 07:01:34.153: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-14T14:37:20.175Z
+2026-10-21 07:01:34.153: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-21 07:01:34.153: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-14T14:37:20.175Z
+2026-10-21 07:01:34.153: [INFO] OnDoneLoading sync enabled: 0
+2026-10-21 07:01:34.153: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-21 07:01:34.153: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-21 07:01:34.153: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-21 07:01:36.548: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-21 07:03:35.747: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-21 07:03:35.747: [INFO] Profiles total count: 1
+2026-10-21 07:03:35.747: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-14T14:37:20.175Z
+2026-10-21 07:03:35.747: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-21 07:03:35.747: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-14T14:37:20.175Z
+2026-10-21 07:03:35.747: [INFO] OnDoneLoading sync enabled: 0
+2026-10-21 07:03:35.747: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-21 07:03:35.747: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-21 07:03:35.747: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-21 08:56:18.790: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-21 10:38:58.406: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-21 10:38:58.406: [INFO] Profiles total count: 1
+2026-10-21 10:38:58.406: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-14T14:37:20.175Z
+2026-10-21 10:38:58.406: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-21 10:38:58.406: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-14T14:37:20.175Z
+2026-10-21 10:38:58.406: [INFO] OnDoneLoading sync enabled: 0
+2026-10-21 10:38:58.406: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-21 10:38:58.406: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-21 10:38:58.406: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-21 10:39:31.622: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-21 10:40:16.014: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-21 10:40:16.014: [INFO] Profiles total count: 1
+2026-10-21 10:40:16.014: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-14T14:37:20.175Z
+2026-10-21 10:40:16.014: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-21 10:40:16.014: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-14T14:37:20.175Z
+2026-10-21 10:40:16.014: [INFO] OnDoneLoading sync enabled: 0
+2026-10-21 10:40:16.014: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-21 10:40:16.014: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-21 10:40:16.014: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-21 11:01:19.669: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-21 11:01:33.810: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-21 11:01:33.810: [INFO] Profiles total count: 1
+2026-10-21 11:01:33.810: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-14T14:37:20.175Z
+2026-10-21 11:01:33.810: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-21 11:01:33.810: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-14T14:37:20.175Z
+2026-10-21 11:01:33.810: [INFO] OnDoneLoading sync enabled: 0
+2026-10-21 11:01:33.810: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-21 11:01:33.810: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-21 11:01:33.810: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-21 14:12:24.466: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-21 14:12:24.530: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-21 14:12:24.530: [INFO] Profiles total count: 1
+2026-10-21 14:12:24.530: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-14T14:37:20.175Z
+2026-10-21 14:12:24.530: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-21 14:12:24.530: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-14T14:37:20.175Z
+2026-10-21 14:12:24.530: [INFO] OnDoneLoading sync enabled: 0
+2026-10-21 14:12:24.530: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-21 14:12:24.530: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-21 14:12:24.530: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-21 14:24:38.503: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-21 14:25:20.162: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-21 14:25:20.162: [INFO] Profiles total count: 1
+2026-10-21 14:25:20.162: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-14T14:37:20.175Z
+2026-10-21 14:25:20.162: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-21 14:25:20.162: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-14T14:37:20.175Z
+2026-10-21 14:25:20.162: [INFO] OnDoneLoading sync enabled: 0
+2026-10-21 14:25:20.162: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-21 14:25:20.162: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-21 14:25:20.162: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-21 17:34:53.763: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-21 17:35:03.354: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-21 17:35:03.354: [INFO] Profiles total count: 1
+2026-10-21 17:35:03.354: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-21 17:35:03.354: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-21 17:35:03.354: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-21 17:35:03.354: [INFO] OnDoneLoading sync enabled: 0
+2026-10-21 17:35:03.354: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-21 17:35:03.354: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-21 17:35:03.354: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-22 04:12:45.670: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-22 04:12:45.670: [INFO] Profiles total count: 1
+2026-10-22 04:12:45.670: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-22 04:12:45.670: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-22 04:12:45.670: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-22 04:12:45.670: [INFO] OnDoneLoading sync enabled: 0
+2026-10-22 04:12:45.670: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-22 04:12:45.670: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-22 04:12:45.670: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-22 06:07:40.030: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-22 06:08:04.191: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-22 06:08:04.191: [INFO] Profiles total count: 1
+2026-10-22 06:08:04.191: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-22 06:08:04.191: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-22 06:08:04.191: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-22 06:08:04.191: [INFO] OnDoneLoading sync enabled: 0
+2026-10-22 06:08:04.191: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-22 06:08:04.191: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-22 06:08:04.191: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-22 06:13:04.952: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-22 06:13:19.128: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-22 06:13:19.128: [INFO] Profiles total count: 1
+2026-10-22 06:13:19.128: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-22 06:13:19.128: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-22 06:13:19.128: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-22 06:13:19.128: [INFO] OnDoneLoading sync enabled: 0
+2026-10-22 06:13:19.128: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-22 06:13:19.128: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-22 06:13:19.128: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-22 06:16:30.353: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-22 11:52:22.137: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-22 11:52:22.137: [INFO] Profiles total count: 1
+2026-10-22 11:52:22.137: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-22 11:52:22.137: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-22 11:52:22.137: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-22 11:52:22.137: [INFO] OnDoneLoading sync enabled: 0
+2026-10-22 11:52:22.137: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-22 11:52:22.137: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-22 11:52:22.137: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-22 12:31:22.465: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-22 14:12:38.992: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-22 14:12:38.993: [INFO] Profiles total count: 1
+2026-10-22 14:12:38.993: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-22 14:12:38.993: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-22 14:12:38.993: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-22 14:12:38.993: [INFO] OnDoneLoading sync enabled: 0
+2026-10-22 14:12:38.993: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-22 14:12:38.993: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-22 14:12:38.993: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-22 14:19:24.125: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-22 14:31:06.174: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-22 14:31:06.174: [INFO] Profiles total count: 1
+2026-10-22 14:31:06.174: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-22 14:31:06.174: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-22 14:31:06.174: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-22 14:31:06.174: [INFO] OnDoneLoading sync enabled: 0
+2026-10-22 14:31:06.174: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-22 14:31:06.174: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-22 14:31:06.174: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-22 14:31:17.159: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-22 14:35:47.740: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-22 14:35:47.740: [INFO] Profiles total count: 1
+2026-10-22 14:35:47.740: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-22 14:35:47.740: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-22 14:35:47.740: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-22 14:35:47.740: [INFO] OnDoneLoading sync enabled: 0
+2026-10-22 14:35:47.740: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-22 14:35:47.740: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-22 14:35:47.740: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-22 14:35:51.859: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-22 14:36:27.475: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-22 14:36:27.475: [INFO] Profiles total count: 1
+2026-10-22 14:36:27.475: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-22 14:36:27.475: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-22 14:36:27.475: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-22 14:36:27.475: [INFO] OnDoneLoading sync enabled: 0
+2026-10-22 14:36:27.475: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-22 14:36:27.475: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-22 14:36:27.475: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-22 14:36:38.235: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-22 14:37:36.910: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-22 14:37:36.910: [INFO] Profiles total count: 1
+2026-10-22 14:37:36.910: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-22 14:37:36.910: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-22 14:37:36.910: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-22 14:37:36.910: [INFO] OnDoneLoading sync enabled: 0
+2026-10-22 14:37:36.910: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-22 14:37:36.910: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-22 14:37:36.910: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-22 16:09:57.386: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-25 17:08:57.190: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-25 17:08:57.190: [INFO] Profiles total count: 1
+2026-10-25 17:08:57.190: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-25 17:08:57.190: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-25 17:08:57.190: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-25 17:08:57.190: [INFO] OnDoneLoading sync enabled: 0
+2026-10-25 17:08:57.190: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-25 17:08:57.190: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-25 17:08:57.190: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 04:03:35.794: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 04:03:35.794: [INFO] Profiles total count: 1
+2026-10-26 04:03:35.794: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 04:03:35.794: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 04:03:35.794: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 04:03:35.794: [INFO] OnDoneLoading sync enabled: 0
+2026-10-26 04:03:35.794: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-26 04:03:35.794: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-26 04:03:35.794: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 04:03:39.145: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 04:08:00.568: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 04:08:00.568: [INFO] Profiles total count: 1
+2026-10-26 04:08:00.568: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 04:08:00.568: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 04:08:00.568: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 04:08:00.568: [INFO] OnDoneLoading sync enabled: 0
+2026-10-26 04:08:00.568: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-26 04:08:00.568: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-26 04:08:00.568: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 04:08:09.678: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 04:08:35.852: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 04:08:35.852: [INFO] Profiles total count: 1
+2026-10-26 04:08:35.853: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 04:08:35.853: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 04:08:35.853: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 04:08:35.853: [INFO] OnDoneLoading sync enabled: 0
+2026-10-26 04:08:35.853: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-26 04:08:35.853: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-26 04:08:35.853: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 04:08:49.854: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 04:09:06.987: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 04:09:06.987: [INFO] Profiles total count: 1
+2026-10-26 04:09:06.987: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 04:09:06.987: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 04:09:06.987: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 04:09:06.987: [INFO] OnDoneLoading sync enabled: 0
+2026-10-26 04:09:06.987: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-26 04:09:06.987: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-26 04:09:06.987: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 04:10:16.053: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 04:11:24.698: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 04:11:24.698: [INFO] Profiles total count: 1
+2026-10-26 04:11:24.698: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 04:11:24.698: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 04:11:24.698: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 04:11:24.698: [INFO] OnDoneLoading sync enabled: 0
+2026-10-26 04:11:24.698: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-26 04:11:24.698: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-26 04:11:24.698: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 04:19:28.541: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 04:19:29.984: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 04:19:29.984: [INFO] Profiles total count: 1
+2026-10-26 04:19:29.984: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 04:19:29.984: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 04:19:29.984: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 04:19:29.984: [INFO] OnDoneLoading sync enabled: 0
+2026-10-26 04:19:29.984: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-26 04:19:29.984: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-26 04:19:29.984: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 04:19:32.999: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 04:20:04.132: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 04:20:04.132: [INFO] Profiles total count: 1
+2026-10-26 04:20:04.132: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 04:20:04.132: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 04:20:04.132: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 04:20:04.132: [INFO] OnDoneLoading sync enabled: 0
+2026-10-26 04:20:04.132: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-26 04:20:04.132: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-26 04:20:04.132: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 04:20:24.378: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 04:21:07.093: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 04:21:07.093: [INFO] Profiles total count: 1
+2026-10-26 04:21:07.093: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 04:21:07.093: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 04:21:07.093: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 04:21:07.093: [INFO] OnDoneLoading sync enabled: 0
+2026-10-26 04:21:07.093: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-26 04:21:07.093: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-26 04:21:07.093: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 04:30:10.491: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 04:31:38.713: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 04:31:38.713: [INFO] Profiles total count: 1
+2026-10-26 04:31:38.713: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 04:31:38.713: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 04:31:38.713: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 04:31:38.713: [INFO] OnDoneLoading sync enabled: 0
+2026-10-26 04:31:38.713: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-26 04:31:38.713: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-26 04:31:38.713: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 04:41:28.383: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 04:41:37.370: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 04:41:37.370: [INFO] Profiles total count: 1
+2026-10-26 04:41:37.370: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 04:41:37.370: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 04:41:37.370: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 04:41:37.370: [INFO] OnDoneLoading sync enabled: 0
+2026-10-26 04:41:37.370: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-26 04:41:37.370: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-26 04:41:37.370: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 04:42:21.988: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 04:59:45.007: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 04:59:45.007: [INFO] Profiles total count: 1
+2026-10-26 04:59:45.007: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 04:59:45.007: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 04:59:45.007: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 04:59:45.007: [INFO] OnDoneLoading sync enabled: 0
+2026-10-26 04:59:45.007: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-26 04:59:45.007: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-26 04:59:45.007: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 05:28:51.668: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 05:43:07.180: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 05:43:07.181: [INFO] Profiles total count: 1
+2026-10-26 05:43:07.181: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 05:43:07.181: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 05:43:07.181: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 05:43:07.181: [INFO] OnDoneLoading sync enabled: 0
+2026-10-26 05:43:07.181: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-26 05:43:07.181: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-26 05:43:07.181: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 07:11:59.256: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 07:13:41.994: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 07:13:41.994: [INFO] Profiles total count: 1
+2026-10-26 07:13:41.994: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 07:13:41.994: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 07:13:41.994: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 07:13:41.994: [INFO] OnDoneLoading sync enabled: 0
+2026-10-26 07:13:41.994: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-26 07:13:41.994: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-26 07:13:41.994: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 08:19:52.622: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 08:24:50.311: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 08:24:50.311: [INFO] Profiles total count: 1
+2026-10-26 08:24:50.312: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 08:24:50.312: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 08:24:50.312: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 08:24:50.312: [INFO] OnDoneLoading sync enabled: 0
+2026-10-26 08:24:50.312: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-26 08:24:50.312: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-26 08:24:50.312: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 08:24:55.066: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 08:25:38.393: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 08:25:38.393: [INFO] Profiles total count: 1
+2026-10-26 08:25:38.393: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 08:25:38.393: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 08:25:38.393: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 08:25:38.393: [INFO] OnDoneLoading sync enabled: 0
+2026-10-26 08:25:38.393: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-26 08:25:38.393: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-26 08:25:38.393: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 09:46:36.046: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 10:52:32.465: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 10:52:32.465: [INFO] Profiles total count: 1
+2026-10-26 10:52:32.465: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 10:52:32.465: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 10:52:32.465: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 10:52:32.465: [INFO] OnDoneLoading sync enabled: 0
+2026-10-26 10:52:32.465: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-26 10:52:32.465: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-26 10:52:32.465: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 10:52:38.292: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 10:53:59.436: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 10:53:59.436: [INFO] Profiles total count: 1
+2026-10-26 10:53:59.436: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 10:53:59.436: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 10:53:59.436: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 10:53:59.436: [INFO] OnDoneLoading sync enabled: 0
+2026-10-26 10:53:59.436: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-26 10:53:59.436: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-26 10:53:59.436: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 12:08:35.640: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 14:15:49.250: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 14:15:49.250: [INFO] Profiles total count: 1
+2026-10-26 14:15:49.250: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 14:15:49.250: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 14:15:49.250: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 14:15:49.250: [INFO] OnDoneLoading sync enabled: 0
+2026-10-26 14:15:49.250: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-26 14:15:49.250: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-26 14:15:49.250: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 14:15:49.398: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 14:16:25.876: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 14:16:25.876: [INFO] Profiles total count: 1
+2026-10-26 14:16:25.876: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 14:16:25.876: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 14:16:25.876: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 14:16:25.876: [INFO] OnDoneLoading sync enabled: 0
+2026-10-26 14:16:25.876: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-26 14:16:25.876: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-26 14:16:25.876: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 14:16:31.878: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 14:17:53.987: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 14:17:53.987: [INFO] Profiles total count: 1
+2026-10-26 14:17:53.987: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 14:17:53.987: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 14:17:53.987: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 14:17:53.987: [INFO] OnDoneLoading sync enabled: 0
+2026-10-26 14:17:53.987: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-26 14:17:53.987: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-26 14:17:53.987: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 14:28:06.626: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 14:28:44.052: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 14:28:44.052: [INFO] Profiles total count: 1
+2026-10-26 14:28:44.052: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 14:28:44.052: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 14:28:44.052: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 14:28:44.052: [INFO] OnDoneLoading sync enabled: 0
+2026-10-26 14:28:44.052: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-26 14:28:44.052: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-26 14:28:44.052: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 14:30:33.679: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 14:30:51.777: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 14:30:51.777: [INFO] Profiles total count: 1
+2026-10-26 14:30:51.777: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 14:30:51.777: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 14:30:51.777: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 14:30:51.777: [INFO] OnDoneLoading sync enabled: 0
+2026-10-26 14:30:51.777: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-26 14:30:51.777: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-26 14:30:51.777: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 14:31:50.484: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 14:32:53.346: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 14:32:53.346: [INFO] Profiles total count: 1
+2026-10-26 14:32:53.346: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 14:32:53.346: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 14:32:53.346: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 14:32:53.346: [INFO] OnDoneLoading sync enabled: 0
+2026-10-26 14:32:53.346: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-26 14:32:53.346: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-26 14:32:53.346: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 14:32:53.451: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 14:33:00.151: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 14:33:00.151: [INFO] Profiles total count: 1
+2026-10-26 14:33:00.151: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 14:33:00.151: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 14:33:00.151: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 14:33:00.151: [INFO] OnDoneLoading sync enabled: 0
+2026-10-26 14:33:00.151: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-26 14:33:00.151: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-26 14:33:00.151: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 14:33:06.691: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 14:33:14.026: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 14:33:14.026: [INFO] Profiles total count: 1
+2026-10-26 14:33:14.026: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 14:33:14.026: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 14:33:14.026: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 14:33:14.026: [INFO] OnDoneLoading sync enabled: 0
+2026-10-26 14:33:14.026: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-26 14:33:14.026: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-26 14:33:14.026: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 14:33:16.605: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 14:34:48.595: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 14:34:48.595: [INFO] Profiles total count: 1
+2026-10-26 14:34:48.596: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 14:34:48.596: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 14:34:48.596: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 14:34:48.596: [INFO] OnDoneLoading sync enabled: 0
+2026-10-26 14:34:48.596: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-26 14:34:48.596: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-26 14:34:48.596: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 14:36:41.100: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 14:36:56.310: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 14:36:56.310: [INFO] Profiles total count: 1
+2026-10-26 14:36:56.310: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 14:36:56.310: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 14:36:56.310: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 14:36:56.310: [INFO] OnDoneLoading sync enabled: 0
+2026-10-26 14:36:56.310: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-26 14:36:56.310: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-26 14:36:56.310: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 14:37:23.228: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 14:37:34.738: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 14:37:34.738: [INFO] Profiles total count: 1
+2026-10-26 14:37:34.739: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 14:37:34.739: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 14:37:34.739: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 14:37:34.739: [INFO] OnDoneLoading sync enabled: 0
+2026-10-26 14:37:34.739: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-26 14:37:34.739: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-26 14:37:34.739: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 14:38:08.726: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 14:38:19.227: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 14:38:19.227: [INFO] Profiles total count: 1
+2026-10-26 14:38:19.228: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 14:38:19.228: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 14:38:19.228: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 14:38:19.228: [INFO] OnDoneLoading sync enabled: 0
+2026-10-26 14:38:19.228: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-26 14:38:19.228: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-26 14:38:19.228: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 14:38:50.354: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 14:39:55.240: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 14:39:55.240: [INFO] Profiles total count: 1
+2026-10-26 14:39:55.240: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 14:39:55.240: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 14:39:55.240: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 14:39:55.240: [INFO] OnDoneLoading sync enabled: 0
+2026-10-26 14:39:55.240: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-26 14:39:55.240: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-26 14:39:55.240: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 14:40:02.529: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 14:45:48.479: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 14:45:48.479: [INFO] Profiles total count: 1
+2026-10-26 14:45:48.479: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 14:45:48.479: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 14:45:48.479: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 14:45:48.479: [INFO] OnDoneLoading sync enabled: 0
+2026-10-26 14:45:48.479: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-26 14:45:48.479: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-26 14:45:48.479: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 14:49:57.081: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 14:50:50.757: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 14:50:50.757: [INFO] Profiles total count: 1
+2026-10-26 14:50:50.758: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 14:50:50.758: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 14:50:50.758: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 14:50:50.758: [INFO] OnDoneLoading sync enabled: 0
+2026-10-26 14:50:50.758: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-26 14:50:50.758: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-26 14:50:50.758: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 14:50:58.960: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 14:52:37.068: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 14:52:37.069: [INFO] Profiles total count: 1
+2026-10-26 14:52:37.069: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 14:52:37.069: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 14:52:37.069: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 14:52:37.069: [INFO] OnDoneLoading sync enabled: 0
+2026-10-26 14:52:37.069: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-26 14:52:37.069: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-26 14:52:37.069: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 15:04:55.935: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 15:08:58.269: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 15:08:58.269: [INFO] Profiles total count: 1
+2026-10-26 15:08:58.269: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 15:08:58.269: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 15:08:58.269: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-26 15:08:58.269: [INFO] OnDoneLoading sync enabled: 0
+2026-10-26 15:08:58.269: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-26 15:08:58.269: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-26 15:08:58.269: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1

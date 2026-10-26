@@ -1,0 +1,21 @@
+server:
+  port: 8084
+
+spring:
+  application:
+    name: APIGATEWAY
+
+  cloud:
+    gateway:
+      server:
+        webmvc:
+          routes:
+            - id: CITIZEN-SERVICE
+              uri: lb://CITIZEN-SERVICE
+              predicates:
+                - Path=/citizen/**
+
+            - id: VACCINATION-SERVICE
+              uri: lb://VACCINATION-SERVICE
+              predicates:
+                - Path=/vaccin/**

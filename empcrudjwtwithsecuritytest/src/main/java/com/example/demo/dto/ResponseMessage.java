@@ -1,0 +1,16 @@
+package com.example.demo.dto;
+
+public class ResponseMessage {
+	
+	String msg;
+	
+	public ResponseMessage(String msg)
+	{
+		this.msg= msg;
+	}
+	public String getMsg()
+	{
+		return msg;
+	}
+
+}

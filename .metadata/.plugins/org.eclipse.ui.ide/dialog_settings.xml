@@ -23,6 +23,29 @@
 		<item value="org.eclipse.rcp:4.40.0.v20260601-0955"/>
 		<item value="org.eclipse.wst.common.fproj:3.41.0.v202601060332"/>
 		<item value="org.jboss.tools.m2e.wro4j.feature:1.2.1.202301111328"/>
+		<item value="org.sonarlint.eclipse.feature:13.1.1.84937"/>
 		<item value="org.sonatype.m2e.egit.feature:0.17.0.202209271423"/>
 	</list>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_SKIP_DOT_FOLDERS" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\ashwinispringboot\empcrudjwtwithsecuritytest"/>
+			<item value="D:\downloads\employee-microservices-springboot\employee-microservices\notification-service"/>
+			<item value="D:\downloads\employee-microservices-springboot\employee-microservices\employee-service"/>
+			<item value="D:\downloads\employee-microservices-springboot\employee-microservices\department-service"/>
+			<item value="D:\downloads\employee-microservices-springboot\employee-microservices\api-gateway"/>
+			<item value="D:\downloads\employee-microservices-springboot\employee-microservices\eureka-server"/>
+		</list>
+		<section name="SmartImportWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="206"/>
+			<item key="DIALOG_Y_ORIGIN" value="7"/>
+			<item key="DIALOG_WIDTH" value="882"/>
+			<item key="DIALOG_HEIGHT" value="672"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
+	</section>
 </section>
