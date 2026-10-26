@@ -11,6 +11,14 @@ pipeline {
             }
         }
 
+        stage('Check Docker') {
+            steps {
+                bat 'where docker'
+                bat 'docker --version'
+                bat 'docker info'
+            }
+        }
+
         stage('Docker Build') {
             steps {
                 dir('empcrudjwtwithsecuritytestwithdocker') {
