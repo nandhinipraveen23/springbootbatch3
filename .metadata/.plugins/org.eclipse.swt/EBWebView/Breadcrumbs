@@ -64,3 +64,11 @@
 1:28:18 Tab3 StartNav236 #typed
 1:28:18 Tab3 FinishNav236
 1:28:18 Tab3 PageLoad
+1:29:10 Tab3 StartNav237 #typed
+1:29:10 Tab3 FinishNav237
+1:29:10 Tab3 PageLoad
+1:31:07 Tab3 StartNav238 #typed
+1:31:07 Tab3 FinishNav238 ERR_ABORTED
+1:31:07 Tab3 StartNav239 #typed
+1:31:07 Tab3 FinishNav239
+1:31:07 Tab3 PageLoad
