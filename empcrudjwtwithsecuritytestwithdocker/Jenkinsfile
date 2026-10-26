@@ -13,16 +13,15 @@ pipeline {
 
         stage('Check Docker') {
             steps {
-                bat 'where docker'
-                bat 'docker --version'
-                bat 'docker info'
+                bat '"C:\\Users\\User\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin\\docker.exe" --version'
+                bat '"C:\\Users\\User\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin\\docker.exe" info'
             }
         }
 
         stage('Docker Build') {
             steps {
                 dir('empcrudjwtwithsecuritytestwithdocker') {
-                    bat 'docker build -t emp-app2 .'
+                    bat '"C:\\Users\\User\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin\\docker.exe" build -t emp-app2 .'
                 }
             }
         }
