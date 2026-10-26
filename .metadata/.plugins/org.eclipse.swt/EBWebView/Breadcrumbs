@@ -178,3 +178,29 @@
 1:23:29 Tab3 StartNav209 #typed
 1:23:29 Tab3 FinishNav209
 1:23:29 Tab3 PageLoad
+1:24:22 Tab3 StartNav210 #typed
+1:24:22 Tab3 FinishNav210 ERR_ABORTED
+1:24:22 Tab3 StartNav211 #typed
+1:24:22 Tab3 FinishNav211
+1:24:22 Tab3 PageLoad
+1:24:27 Tab3 StartNav212 #typed
+1:24:27 Tab3 FinishNav212
+1:24:27 Tab3 PageLoad
+1:24:28 Tab3 StartNav213 #typed
+1:24:29 Tab3 FinishNav213
+1:24:29 Tab3 PageLoad
+1:24:32 Tab3 StartNav214 #typed
+1:24:32 Tab3 FinishNav214 ERR_ABORTED
+1:24:32 Tab3 StartNav215 #typed
+1:24:32 Tab3 FinishNav215
+1:24:32 Tab3 PageLoad
+1:24:36 Tab3 StartNav216 #typed
+1:24:36 Tab3 FinishNav216 ERR_ABORTED
+1:24:36 Tab3 StartNav217 #typed
+1:24:36 Tab3 FinishNav217
+1:24:36 Tab3 PageLoad
+1:24:39 Tab3 StartNav218 #typed
+1:24:39 Tab3 FinishNav218 ERR_ABORTED
+1:24:39 Tab3 StartNav219 #typed
+1:24:39 Tab3 FinishNav219
+1:24:39 Tab3 PageLoad
