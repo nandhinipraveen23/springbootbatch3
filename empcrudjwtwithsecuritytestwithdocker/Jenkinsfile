@@ -31,7 +31,7 @@ stage('Docker Build')
 		dir('empcrudjwtwithsecuritytestwithdocker')
 		
 		{
-	bat '"C:\\Users\\User\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin\\docker.exe" build -t ashwini-emp'
+	bat '"C:\\Users\\User\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin\\docker.exe" build -t ashwini-emp .'
 		}
 	}
 }
