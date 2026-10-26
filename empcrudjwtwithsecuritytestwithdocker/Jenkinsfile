@@ -37,12 +37,13 @@ stage('Docker Build')
 }
 
 
-  stage('Docker Run') {
-            steps {
-                bat '"C:\\Users\\User\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin\\docker.exe" rm -f ashwini-emp-container || exit /b 0'
-                bat '"C:\\Users\\User\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin\\docker.exe" run -d --name ashwini-emp-container -p 8080:8080 ashwini-emp'
-            }
-        }
+stage('Docker Run') {
+    steps {
+        bat '"C:\\Users\\User\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin\\docker.exe" rm -f ashwini-emp-container || exit /b 0'
+
+        bat '"C:\\Users\\User\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin\\docker.exe" run -d --name ashwini-emp-container --env-file empcrudjwtwithsecuritytestwithdocker/.env -p 8080:8080 ashwini-emp'
+    }
+}
 
   
 }

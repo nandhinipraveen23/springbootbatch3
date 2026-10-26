@@ -122,3 +122,44 @@
 1:42:38 Tab3 StartNav256 #typed
 1:42:39 Tab3 FinishNav256
 1:42:39 Tab3 PageLoad
+1:44:44 Tab3 StartNav257 #typed
+1:44:44 Tab3 FinishNav257
+1:44:44 Tab3 PageLoad
+1:49:02 Tab3 StartNav258 #typed
+1:49:02 Tab3 FinishNav258
+1:49:02 Tab3 PageLoad
+1:49:22 Microsoft.BrowserList.AddBrowser
+1:49:22 Browser4 Insert active Tab4 at 0
+1:49:22 Tab4 StartNav259 #auto_toplevel
+1:49:22 Tab4 StartNav260 #typed
+1:49:23 Tab4 FinishNav259
+1:49:23 Tab4 PageLoad
+1:49:23 Tab4 FinishNav260
+1:49:23 Tab4 PageLoad
+1:49:23 Tab4 StartNav261 #typed
+1:49:23 Tab4 FinishNav261
+1:49:23 Tab4 PageLoad
+1:49:24 Tab4 StartNav262 #typed
+1:49:24 Tab4 FinishNav262
+1:49:24 Tab4 PageLoad
+1:49:29 Tab4 StartNav263 #typed
+1:49:29 Tab4 FinishNav263
+1:49:29 Tab4 PageLoad
+1:49:33 Tab4 StartNav264 #typed
+1:49:33 Tab4 FinishNav264
+1:49:33 Tab4 PageLoad
+1:49:33 Tab4 StartNav265 #typed
+1:49:33 Tab4 FinishNav265
+1:49:33 Tab4 PageLoad
+1:51:29 Tab3 StartNav266 #typed
+1:51:29 Tab3 FinishNav266
+1:51:29 Tab3 PageLoad
+1:51:33 Tab3 StartNav267 #typed
+1:51:33 Tab3 FinishNav267
+1:51:33 Tab3 PageLoad
+1:51:37 Tab3 StartNav268 #typed
+1:51:37 Tab3 FinishNav268
+1:51:37 Tab3 PageLoad
+1:51:41 Tab3 StartNav269 #typed
+1:51:41 Tab3 FinishNav269
+1:51:41 Tab3 PageLoad
