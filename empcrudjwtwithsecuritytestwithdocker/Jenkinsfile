@@ -20,9 +20,7 @@ pipeline {
 bat '"C:\\Users\\User\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin\\docker.exe" --version'
 				
 				
-				bat 
-				 
-'"C:\\Users\\User\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin\\docker.exe" info'
+bat  '"C:\\Users\\User\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin\\docker.exe" info'
 			}
 			}
 
@@ -33,8 +31,7 @@ stage('Docker Build')
 		dir('empcrudjwtwithsecuritytestwithdocker')
 		
 		{
-	bat 
-	'"C:\\Users\\User\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin\\docker.exe" build -t ashwini-emp.'
+	bat '"C:\\Users\\User\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin\\docker.exe" build -t ashwini-emp.'
 		}
 	}
 }
