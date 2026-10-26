@@ -17,14 +17,12 @@ pipeline {
 
         stage('Check Docker') {
             steps {
-				bat '"C:\\Users\\User\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin
-				\\docker.exe"--version'
+bat '"C:\\Users\\User\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin\\docker.exe"--version'
 				
 				
 				bat 
 				 
-				'"C:\\Users\\User\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin
-				\\docker.exe"info'
+'"C:\\Users\\User\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin\\docker.exe"info'
 			}
 			}
 
