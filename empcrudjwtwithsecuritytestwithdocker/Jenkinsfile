@@ -3,52 +3,34 @@ pipeline {
     agent any
 
     stages {
-        stage('Build')
-         {
-            steps
-             {
-                dir('empcrudjwtwithsecuritytestwithdocker')
-				{
-                    bat 'mvnw.cmd clean package -DskipTests'
+        stage('Build') {
+            steps {
+                dir('empcrudjwtwithsecuritytestwithdocker') {
+                    bat 'call mvnw.cmd clean package -DskipTests'
                 }
             }
         }
 
-        stage('Check Docker') 
-        {
+        stage('Check Docker') {
             steps {
                 bat '"C:\\Users\\User\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin\\docker.exe" --version'
             }
         }
-    }
-    
-    
-      stage('Docker Build') 
-        {
+
+        stage('Docker Build') {
             steps {
-            
-            dir('empcrudjwtwithsecuritytestwithdocker')
-				{
-                bat '"C:\\Users\\User\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin\\docker.exe" build -t ashwini-emp .'
-            }}
+                dir('empcrudjwtwithsecuritytestwithdocker') {
+                    bat '"C:\\Users\\User\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin\\docker.exe" build -t ashwini-emp .'
+                }
+            }
         }
-    }
-    
-    
-     stage('Docker Run') 
-        {
-        
+
+        stage('Docker Run') {
             steps {
-            
-			
                 bat '"C:\\Users\\User\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin\\docker.exe" rm -f ashwini-emp-container || exit /b 0'
-            
-                bat '"C:\\Users\\User\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin\\docker.exe" run -d ashwini-emp-container -env-file empcrudjwtwithsecuritytestwithdocker/.env -p 8080:8080 ashwini-emp'
-            
+
+                bat '"C:\\Users\\User\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin\\docker.exe" run -d --name ashwini-emp-container --env-file empcrudjwtwithsecuritytestwithdocker/.env -p 8080:8080 ashwini-emp'
             }
         }
     }
-    
-    
-    
 }
