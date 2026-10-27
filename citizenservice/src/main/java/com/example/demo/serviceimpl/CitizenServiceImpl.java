@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.kafka.core.KafkaTemplate;
 import org.springframework.stereotype.Service;
 
  
@@ -11,6 +12,7 @@ import com.example.demo.dto.CitizenDto;
 import com.example.demo.entity.Citizen;
 import com.example.demo.repo.CitizenRepo;
 import com.example.demo.service.CitizenService;
+import com.fasterxml.jackson.databind.ObjectMapper;
 
 @Service
 public class CitizenServiceImpl  implements CitizenService{
@@ -18,7 +20,12 @@ public class CitizenServiceImpl  implements CitizenService{
 	
 	@Autowired
 	CitizenRepo citizenRepo;
+	@Autowired
+	private ObjectMapper objectMapper;
 
+	@Autowired
+	private KafkaTemplate<String, String> kafkaTemplate;
+	
 	@Override
 	public CitizenDto insertCitizen(CitizenDto  citizenDto) {
 
@@ -33,6 +40,20 @@ public class CitizenServiceImpl  implements CitizenService{
 		   
   citizenDto.setId(cRes.getId());
 		
+  try {
+	    String message = objectMapper.writeValueAsString(citizenDto);
+
+	    kafkaTemplate.send("citizen-topic", message)
+	        .whenComplete((result, ex) -> {
+	            if (ex != null) {
+	                System.err.println("Kafka send failed: " + ex.getMessage());
+	            } else {
+	                System.out.println("Kafka message sent: " + message);
+	            }
+	        });
+	} catch (Exception e) {
+	    e.printStackTrace();
+	}
 		return citizenDto;
 	}
 

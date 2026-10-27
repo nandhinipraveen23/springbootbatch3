@@ -941,3 +941,22 @@
 2026-10-27 07:27:46.410: [INFO] BookmarksLoadDropped droppedNodes=0
 2026-10-27 07:27:46.410: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
 2026-10-27 07:48:23.576: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-27 08:55:47.123: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-27 08:55:47.123: [INFO] Profiles total count: 1
+2026-10-27 08:55:47.124: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-27 08:55:47.124: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-27 08:55:47.124: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-27 08:55:47.124: [INFO] OnDoneLoading sync enabled: 0
+2026-10-27 08:55:47.124: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-27 08:55:47.124: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-27 08:55:47.124: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-27 08:55:49.314: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-27 09:00:31.454: [INFO] CurrentProfilePath: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-27 09:00:31.454: [INFO] Profiles total count: 1
+2026-10-27 09:00:31.454: [INFO] Profile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-27 09:00:31.454: [INFO] LastUsedProfileDir: D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-27 09:00:31.454: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\ashwinispringboot\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-21T16:24:14.757Z
+2026-10-27 09:00:31.454: [INFO] OnDoneLoading sync enabled: 0
+2026-10-27 09:00:31.454: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-27 09:00:31.454: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-27 09:00:31.454: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1

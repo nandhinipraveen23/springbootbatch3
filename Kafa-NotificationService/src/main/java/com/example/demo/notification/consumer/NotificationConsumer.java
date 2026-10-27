@@ -24,7 +24,7 @@ public class NotificationConsumer {
         groupId = "notification-group"
     )
     public void consume(String message) throws Exception {
-
+System.out.println("im getting called.......................");
         CitizenRegisteredEvent event =
             objectMapper.readValue(
                 message, CitizenRegisteredEvent.class
