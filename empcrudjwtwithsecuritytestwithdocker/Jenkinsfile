@@ -1,12 +1,13 @@
+
 pipeline {
     agent any
 
     stages {
         stage('Build') {
             steps {
-              
+                dir('empcrudjwtwithsecuritytestwithdocker') {
                     bat 'mvnw.cmd clean package -DskipTests'
-                
+                }
             }
         }
 
