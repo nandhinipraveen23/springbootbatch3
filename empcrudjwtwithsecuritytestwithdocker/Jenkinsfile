@@ -3,18 +3,52 @@ pipeline {
     agent any
 
     stages {
-        stage('Build') {
-            steps {
-                dir('empcrudjwtwithsecuritytestwithdocker') {
+        stage('Build')
+         {
+            steps
+             {
+                dir('empcrudjwtwithsecuritytestwithdocker')
+				{
                     bat 'mvnw.cmd clean package -DskipTests'
                 }
             }
         }
 
-        stage('Check Docker') {
+        stage('Check Docker') 
+        {
             steps {
                 bat '"C:\\Users\\User\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin\\docker.exe" --version'
             }
         }
     }
+    
+    
+      stage('Docker Build') 
+        {
+            steps {
+            
+            dir('empcrudjwtwithsecuritytestwithdocker')
+				{
+                bat '"C:\\Users\\User\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin\\docker.exe" build -t ashwini-emp .'
+            }}
+        }
+    }
+    
+    
+     stage('Docker Run') 
+        {
+        
+            steps {
+            
+			
+                bat '"C:\\Users\\User\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin\\docker.exe" rm -f ashwini-emp-container || exit /b 0'
+            
+                bat '"C:\\Users\\User\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin\\docker.exe" run -d ashwini-emp-container -env-file empcrudjwtwithsecuritytestwithdocker/.env -p 8080:8080 ashwini-emp'
+            
+            }
+        }
+    }
+    
+    
+    
 }
