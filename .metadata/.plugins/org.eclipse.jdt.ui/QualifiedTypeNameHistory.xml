@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="org.springframework.web.filter.OncePerRequestFilter"/>
-    <fullyQualifiedTypeName name="javax.crypto.SecretKey"/>
-    <fullyQualifiedTypeName name="io.jsonwebtoken.security.Keys"/>
-    <fullyQualifiedTypeName name="java.util.Date"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="io.jsonwebtoken.Jwts"/>
     <fullyQualifiedTypeName name="com.example.demo.dto.VaccinationDto"/>
     <fullyQualifiedTypeName name="org.springframework.web.client.RestTemplate"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
@@ -60,4 +54,10 @@
     <fullyQualifiedTypeName name="org.springframework.http.MediaType"/>
     <fullyQualifiedTypeName name="org.mockito.ArgumentMatchers"/>
     <fullyQualifiedTypeName name="org.mockito.Mockito"/>
+    <fullyQualifiedTypeName name="org.springframework.kafka.annotation.KafkaListener"/>
+    <fullyQualifiedTypeName name="com.example.demo.notification.dto.CitizenRegisteredEvent"/>
+    <fullyQualifiedTypeName name="com.example.demo.analytics.dto.CitizenRegisteredEvent"/>
+    <fullyQualifiedTypeName name="tools.jackson.databind.ObjectMapper"/>
+    <fullyQualifiedTypeName name="com.example.demo.audit.dto.CitizenRegisteredEvent"/>
+    <fullyQualifiedTypeName name="java.time.Instant"/>
 </qualifiedTypeNameHistroy>

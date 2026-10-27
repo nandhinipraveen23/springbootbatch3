@@ -1,7 +1,7 @@
 services:
   app:
     build: .
-    container_name: myempdocker
+    container_name: myempcontainer
     ports:
       - "8080:8080"
     env_file:

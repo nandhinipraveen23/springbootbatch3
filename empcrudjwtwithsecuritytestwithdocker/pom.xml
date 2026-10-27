@@ -87,7 +87,7 @@
 	</dependencies>
 
 	<build>
-	<finalName>ashwini-emp</finalName>
+	<finalName>myjar</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
