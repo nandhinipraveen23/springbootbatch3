@@ -105,3 +105,11 @@
 0:21:30 Tab1 StartNav156 #typed
 0:21:30 Tab1 FinishNav156
 0:21:30 Tab1 PageLoad
+0:25:25 Tab1 StartNav157 #typed
+0:25:25 Tab1 FinishNav157
+0:25:25 Tab1 PageLoad
+0:26:06 Tab1 StartNav158 #typed
+0:26:06 Tab1 FinishNav158 ERR_ABORTED
+0:26:06 Tab1 StartNav159 #typed
+0:26:06 Tab1 FinishNav159
+0:26:06 Tab1 PageLoad
