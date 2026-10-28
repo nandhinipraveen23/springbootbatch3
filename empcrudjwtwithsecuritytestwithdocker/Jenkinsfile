@@ -5,32 +5,45 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                dir('empcrudjwtwithsecuritytestwithdocker') {
-                    bat 'call mvnw.cmd clean package -DskipTests'
-                }
+		dir ('empcrudjwtwithsecuritytestwithdocker'){		
+				
+  bat 'call mvnw.cmd clean package -DskipTests'
+            }
             }
         }
 
         stage('Check Docker') {
             steps {
-                bat '"C:\\Users\\User\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin\\docker.exe" --version'
+  bat'"C:\\Users\\User\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin\\docker.exe" --version'
             }
         }
 
         stage('Docker Build') {
             steps {
-                dir('empcrudjwtwithsecuritytestwithdocker') {
-                    bat '"C:\\Users\\User\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin\\docker.exe" build -t ashwini-emp .'
+				dir ('empcrudjwtwithsecuritytestwithdocker'){		
+				
+  bat'"C:\\Users\\User\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin\\docker.exe" build -t mydocker-image .'
+                
+                }
                 }
             }
-        }
-
-        stage('Docker Run') {
+            
+     
+     
+       stage('Docker Build') {
             steps {
-                bat '"C:\\Users\\User\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin\\docker.exe" rm -f ashwini-emp-container || exit /b 0'
-
-                bat '"C:\\Users\\User\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin\\docker.exe" run -d --name ashwini-emp-container --env-file empcrudjwtwithsecuritytestwithdocker/.env -p 8080:8080 ashwini-emp'
-            }
+				dir ('empcrudjwtwithsecuritytestwithdocker'){		
+				
+  bat'"C:\\Users\\User\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin\\docker.exe" rm -f  mydocker-container || exit /b 0'
+  
+  bat'"C:\\Users\\User\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin\\docker.exe" run -d --name   mydocker-container --env-file empcrudjwtwithsecuritytestwithdocker/.env -p 8080:8080 mydocker-image'
+               
+                }
+                }
+                  
+            
+            
+            
         }
     }
 }

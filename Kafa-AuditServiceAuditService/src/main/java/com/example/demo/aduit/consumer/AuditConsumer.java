@@ -39,4 +39,20 @@ public class AuditConsumer {
         );
         System.out.println("Recorded At: " + Instant.now());
     }
+    
+    
+    
+    // 2. Receive messages from Vaccination Service
+    @KafkaListener(
+        topics = "vaccination-topic",
+        groupId = "audit-group"
+    )
+    public void consumeVaccination(String message) {
+
+        System.out.println("Vaccination message received!");
+
+        System.out.println("=== VACCINATION NOTIFICATION ===");
+        System.out.println("Vaccination Data: " + message);
+        System.out.println("Vaccination notification processed!");
+    }
 }

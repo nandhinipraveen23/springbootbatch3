@@ -41,4 +41,19 @@ System.out.println("im getting called.......................");
         );
         System.out.println("Notification processed!");
     }
+    
+    
+    // 2. Receive messages from Vaccination Service
+    @KafkaListener(
+        topics = "vaccination-topic",
+        groupId = "notification-group"
+    )
+    public void consumeVaccination(String message) {
+
+        System.out.println("Vaccination message received!");
+
+        System.out.println("=== VACCINATION NOTIFICATION ===");
+        System.out.println("Vaccination Data: " + message);
+        System.out.println("Vaccination notification processed!");
+    }
 }
